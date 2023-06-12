@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+码云： https://gitee.com/ck-jesse 
+
+CSDN：https://blog.csdn.net/icansoicrazy
+
 <!--
 **ck-jesse/ck-jesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
