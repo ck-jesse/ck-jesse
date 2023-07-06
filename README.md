@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ck-jesse&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+- ✨为了更美好的明天而战!
+- 
 - 🌱CSDN：https://blog.csdn.net/icansoicrazy
-
+- 
 - 🔭码云：https://gitee.com/ck-jesse 
 
