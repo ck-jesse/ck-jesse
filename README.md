@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ck-jesse&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- ✨一个做过一些管理工作的资深程序员。
- 
-- 曾从0到1负责过百亿GMV电商平台的整体架构设计，月GMV从1亿到10亿+，QPS从5w到35w。
 
-- 做过电商、Saas平台、互联网金融等行业赛道。
-  
 - 🌱CSDN：https://blog.csdn.net/icansoicrazy
   
-- 🔭码云：https://gitee.com/ck-jesse 
-
+- 🔭码云：https://gitee.com/ck-jesse
+ 
+- ✨一个做过一些管理工作的资深程序员。曾从0到1负责过百亿GMV电商平台的整体架构设计，月GMV从1亿到10亿+，QPS从5w到35w。做过电商、Saas平台、互联网金融等行业赛道。
+  
