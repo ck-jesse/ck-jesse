@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   
 - 🔭码云：https://gitee.com/ck-jesse
  
-- ✨一个做过一些管理工作的资深程序员。曾从0到1负责过百亿GMV电商平台的整体架构设计，月GMV从1亿到10亿+，QPS从5w到35w。做过电商、Saas平台、互联网金融等行业赛道。
+- ✨从0到1负责过千万级月活电商平台的整体架构设计，月GMV从1亿到10亿+，QPS从5w到35w。做过电商、Saas平台、互联网金融等行业赛道。
   
