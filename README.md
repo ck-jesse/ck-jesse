@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   
 - 🔭码云：https://gitee.com/ck-jesse
  
-- ✨从0到1负责过千万级月活电商平台的整体架构设计，月GMV从1亿到10亿+，QPS从5w到35w。做过电商平台、Saas平台、业务中台、聚合支付等行业赛道。
+- ✨从0到1负责过千万级月活电商平台的系统重构和架构设计，月GMV从1亿到10亿+，QPS从5w到35w。做过电商平台、Saas平台、业务中台、聚合支付等行业赛道。
   
